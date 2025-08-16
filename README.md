@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hoangvuche
-- 👀 I’m interested in Php, Python, kivy and creating platform independent applications.
+- 👀 I’m interested in Saas, Php, Python, kivy and creating platform independent applications.
 - 🌱 I’m open to discuss on any potential large-scalable ideas
 - 📫 You can reach me at hoangvu.che@gmail.com
 
